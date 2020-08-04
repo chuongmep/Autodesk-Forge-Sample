@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "API Forge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Forge"
+  ],
+  "author": "Chuong.Ho",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forge-apis": "^0.7.3",
+    "multer": "^1.4.2"
+  }
+}
